@@ -20,7 +20,7 @@ $(document).ready(function() {
             `).appendTo(novoItem);
             $(novoItem).appendTo('ul');
             $(novoItem).fadeIn(1000);
-            $('#endereco-magem-nova').val('')
+            $('#endereco-imagem-nova').val('')
     })
 })
 
